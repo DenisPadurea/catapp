@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+   background:url('bg.png') no-repeat;
+  background-size: cover;
+  font-family: "Trebuchet MS Bold" ,sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color:white;
+/*  width:1280px;
+*/}
+

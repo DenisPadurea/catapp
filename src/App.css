@@ -1,0 +1,92 @@
+.main_container{
+  height:auto;
+  width:100%;
+  background-size: cover;
+}
+.main_title{
+  font-family:"Exo 2 Thin",sans-serif;
+  font-size: 36px;
+  text-align: center;
+
+}
+.card{
+  width:320px;
+  height:480px;
+  background:url("card_bg.png") no-repeat;
+  background-size: 100%;
+  color:black;
+  position: relative;
+}
+.card_first{
+  padding-top:25px;
+  padding-bottom: 15px;
+  font-size: 16px;
+}
+.first_hover{
+  color: #e62e7a;
+}
+.card_title{
+  font-size:48px; 
+}
+.card_taste{
+  font-size:24px;
+  padding-bottom: 20px;
+}
+.card_item{
+  padding-left:45px;
+  margin: 0;
+}
+.card_quantity, .card_gift{
+  font-size: 14px;
+}
+.card_weight{
+  height:70px;
+  width:80px;
+text-align: center;
+border-radius: 50%;
+padding-top: 10px;
+position: absolute;
+bottom:15px;
+right:15px;
+color:white;
+}
+.weight_value{
+  font-size: 42px;
+  margin-top: 15px;
+  line-height: 1;
+}
+.kilos{
+  font-size: 21px;
+  line-height: 0;
+}
+.card_description{
+  font-size: 13px;
+  text-align: center;
+}
+.disabled_description{
+  color:#ffff66;
+}
+a{
+ color:#1698d9;
+border-bottom:1px dashed #1698d9;
+}
+a:hover{
+ color: #2ea8e6;
+}
+.card:last-child{
+  margin-right:0;
+}
+.container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap:wrap;
+
+}
+svg{
+  width:320px;
+  height:480px;
+  position:absolute;
+  
+}
+
