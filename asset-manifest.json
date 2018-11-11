@@ -1,0 +1,15 @@
+{
+  "main.css": "/catapp/static/css/main.b0f5d182.chunk.css",
+  "main.js": "/catapp/static/js/main.6c390eaf.chunk.js",
+  "main.js.map": "/catapp/static/js/main.6c390eaf.chunk.js.map",
+  "static/js/1.499bf8bc.chunk.js": "/catapp/static/js/1.499bf8bc.chunk.js",
+  "static/js/1.499bf8bc.chunk.js.map": "/catapp/static/js/1.499bf8bc.chunk.js.map",
+  "runtime~main.js": "/catapp/static/js/runtime~main.cbe1a873.js",
+  "runtime~main.js.map": "/catapp/static/js/runtime~main.cbe1a873.js.map",
+  "static/css/main.b0f5d182.chunk.css.map": "/catapp/static/css/main.b0f5d182.chunk.css.map",
+  "static/media/index.css": "/catapp/static/media/bg.25d4de48.png",
+  "static/media/App.css": "/catapp/static/media/card_bg.3dd23e54.png",
+  "index.html": "/catapp/index.html",
+  "precache-manifest.f628c2b7d43f4be2fcbf195e49e75400.js": "/catapp/precache-manifest.f628c2b7d43f4be2fcbf195e49e75400.js",
+  "service-worker.js": "/catapp/service-worker.js"
+}
